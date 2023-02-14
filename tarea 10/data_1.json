@@ -1,0 +1,6 @@
+[ 
+    {"nombre":"Gregorio", "edad": 25, "ocupacion": "empleado"},
+    {"nombre":"Mariana", "edad": 17, "ocupacion":"estudiante"},
+    {"nombre":"Bombon", "edad": 14, "ocupacion": "Mascota de la familia 1"},
+    {"nombre":"Burbuja", "edad": 13, "ocupacion": "Mascota de la familia 2"}
+]
